@@ -416,7 +416,7 @@ If nothing shows up, install it:
 pip install hermes-browserless-web-extract
 ```
 
-If you're using a virtual environment for Hermes, make sure you're installing into that same environment. Run `which python` or `which pip` to confirm you're in the right one.
+If you're using a virtual environment for Hermes, make sure you're installing into that same environment. Run `which python` or `which pip` to confirm you're in the right one. 
 
 ## Development
 
