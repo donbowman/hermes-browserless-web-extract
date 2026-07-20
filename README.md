@@ -101,7 +101,7 @@ BROWSERLESS_URL=https://production-sfo.browserless.io (or your local URL)
 
 **What these mean:**
 
-- `BROWSERLESS_TOKEN` — Your Browserless API token. Required. This is how Browserless knows you're a paying (or free-tier) customer and tracks your usage.
+- `BROWSERLESS_TOKEN` — Your Browserless API token. Required.
 - `BROWSERLESS_URL` — The base URL of your Browserless instance. Defaults to `https://production-sfo.browserless.io` if not set. If you purchased a dedicated instance or signed up through a regional endpoint, use that URL instead. If you self-host Browserless, point this at your own server.
 
 **Gotchas to avoid:**
