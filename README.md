@@ -96,7 +96,7 @@ Add these two lines:
 
 ```bash
 BROWSERLESS_TOKEN=your-api-token-here
-BROWSERLESS_URL=https://production-sfo.browserless.io
+BROWSERLESS_URL=https://production-sfo.browserless.io (or your local URL)
 ```
 
 **What these mean:**
